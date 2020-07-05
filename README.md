@@ -22,5 +22,5 @@ Coming” y en “jar” estará el ejecutable de la aplicación. El ejecutable 
 
 La implementación del manejo de idiomas se debe hacer usando archivos de propiedades. Para esto se
 recomienda ver los siguientes artículos:
-  ● https://docs.oracle.com/javase/tutorial/i18n/intro/steps.html
-  ● https://mkyong.com/java/java-properties-file-examples/
+● https://docs.oracle.com/javase/tutorial/i18n/intro/steps.html
+● https://mkyong.com/java/java-properties-file-examples/
