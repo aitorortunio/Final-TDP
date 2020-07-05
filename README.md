@@ -1,4 +1,4 @@
-# Enunciado del problema a resolver.
+# Enunciado del problema a resolver
 
 Winter is Coming: La aplicación “Winter is Coming” calcula cuales son las 5 palabras más usadas de un
 conjunto de archivos de texto. La aplicación debe contar con un botón “Cargar Directorio” el cual permita indicar
